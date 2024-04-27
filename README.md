@@ -1,2 +1,2 @@
-# This is website created when I was learning bootstrap
+# This was website created when I was learning bootstrap
 # Screenshots
